@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 =======
 # 🌐 L-GovTrack – Civic Issue Reporting Platform
 
